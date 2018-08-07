@@ -1,0 +1,9 @@
+--- RESTFUL ROUTES ---
+(Representational State Transfer)
+
+-- CRUD --
+
+Create - New, Create
+Read - Index, Show
+Update - Edit, Update
+Delete - Delete
